@@ -1,1 +1,8 @@
-this is my first file
+<!DOCKTYPE html>
+<html>
+    <head><title>firsttask</title></head>
+    <body>
+    <h1>Samvel</h1>
+    <h2>Hambardzmyan</h2>
+    </body> 
+</html>
